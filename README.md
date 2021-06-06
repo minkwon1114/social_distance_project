@@ -53,4 +53,7 @@ Deploying it on current surveillance systems and drones used by police to monito
   year={2018}
 }
 
++++
+social distance ipynb파일과 .py 파일을 Social distance폴더에 넣어주셔야 
+
 copyright © 2020 Ankush Chaudhari | All rights reserved
